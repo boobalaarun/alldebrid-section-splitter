@@ -1,0 +1,14 @@
+{
+  "name": "alldebrid-section-splitter",
+  "version": "1.0.0",
+  "description": "Split an AllDebrid account into separate Stremio/Nuvio addon install URLs (Saved Links, History, Magnets). Unofficial.",
+  "type": "module",
+  "license": "MIT",
+  "author": "boobalaarun",
+  "repository": { "type": "git", "url": "git+https://github.com/boobalaarun/alldebrid-section-splitter.git" },
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test.mjs"
+  }
+}
