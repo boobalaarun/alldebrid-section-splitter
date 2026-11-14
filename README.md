@@ -1,6 +1,6 @@
 # alldebrid-section-splitter
 
-**Split your AllDebrid account into separate Stremio / Nuvio addon install JSONs, one per section, like (Saved Links or History or Magnets) without exposing everything else.**
+**Split your AllDebrid account into separate Stremio / Nuvio addon JSONs, one per section, like (Saved Links or History or Magnets) without exposing everything else.**
 
 > Unofficial. Not affiliated with, endorsed by, or supported by AllDebrid.
 
