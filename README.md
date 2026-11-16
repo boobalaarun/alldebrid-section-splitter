@@ -25,7 +25,7 @@ Your API key is encrypted inside the URL. It never appears in the addon manifest
 | Automated tests (`npm test`) | Pass, but run against a **fake AllDebrid**, not the real API |
 | Home server (`server.mjs`) | **Not tested like this yet.** It only got a local smoke test (page loads, URL generation runs). Not tried against real AllDebrid, behind a tunnel, or with Stremio/Nuvio. Treat it as experimental |
 | History and Magnets sections | Written and covered by the mocked tests. Only Saved Links has been confirmed on a real account |
-| Stremio / Nuvio apps | Built to the Stremio addon protocol. If a specific app misbehaves, please open an issue and say which app and version |
+| Stremio and Nuvio | **Tested and working** by the author: the Saved Links URL installs and plays in both apps |
 
 ## Screenshots
 
